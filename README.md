@@ -26,6 +26,10 @@ O sistema é controlado via **porta serial** (USB) e aceita os seguintes comando
 - **6**: Acionar o buzzer por 2 segundos
 - **7**: Reiniciar o RP2040 no modo **Bootloader**
 
+## Vídeo de Demonstração
+[![Vídeo de Demonstração](https://i.ytimg.com/vi/kEJRiJeWUP0/hq720_2.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAIhC0AEB2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLC0BxD9g6Z8w7pd8a2XNGtGHcbKMQ)](https://www.youtube.com/shorts/kEJRiJeWUP0O)
+
+
 ## Requisitos
 
 - **Ambiente de desenvolvimento** com o SDK da Raspberry Pi Pico (Pico SDK)
